@@ -31,11 +31,23 @@ To run this project locally, follow these steps:
 
 3. Start the development server:
 
+<<<<<<< HEAD
    bash
    npm run start
    
 
 4. Open your web browser and navigate to [http://localhost:3000/](http://localhost:3000) to view the website.
+=======
+1. Fork this GitHub repository [Assignment Repo](https://github.com/internsathi/frontend-assignment) to your own GitHub account.
+2. Commit your code regularly and push the changes to your forked repository.
+3. Do not create a pull request; just submit your forked repository.
+4. Provide a DOCS.md file with all the technologies used and how to run the program locally.
+5. Once you have completed the assignment, share the repository URL with us via the [submission form](https://forms.gle/r5ENHoDewE5swP9x7).
+
+6. Join this discord server to get an update: [Join Here ](https://discord.gg/5qbGZP7V8g)
+
+- Submission Deadline: Task Submission: 2023/07/22 11:30 AM
+>>>>>>> 278d81f00190223d30e536c6436d2a2a37b8b0c2
 
 ## Project Structure
 
